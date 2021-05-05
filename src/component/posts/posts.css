@@ -1,0 +1,15 @@
+.PostFather{
+
+}
+.PostsBox{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    border: 2px solid;
+    padding: 5px;
+}
+.PostsDetails{
+    width: 100%;
+    border: 2px solid green;
+    padding: 5px;
+}

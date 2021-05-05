@@ -1,0 +1,13 @@
+.Father{
+    display: flex;
+}
+.UsersBox{
+    width: fit-content;
+    border: 2px solid;
+    padding: 5px;
+}
+.UserDetails{
+    width: fit-content;
+    border: 2px solid green;
+    padding: 5px;
+}
